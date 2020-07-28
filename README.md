@@ -12,4 +12,5 @@ We are trying to identify these factors and predict the probability of a borrowe
 
 
 Data Description
-The dataset which was used for this project was downloaded from Kaggle.The dataset has about 41 features and 233154 instances. It includes details about the cost of assets, employment status of the individuals, different age groups, the amount disbursed for loans, loan default status etc. The dataset is a mix of qualitative and quantitative variables. 
+
+The dataset has 41 features and 233154 instances. It includes details about the cost of assets, employment status of the individuals, different age groups, the amount disbursed for loans, loan default status etc. The dataset is a mix of qualitative and quantitative variables. 
